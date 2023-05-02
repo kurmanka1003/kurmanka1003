@@ -8,6 +8,9 @@
   <a href="https://vk.com/kurmanka1">
     <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="Vk"/>
   </a>
+   <a href="mailto:rumiyakurmangazieva2001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EB1923?style=for-the-badge&logo=gmail&logoColor=white" alt="Vk"/>
+  </a>
 </div>
 <h1 align="center">
   Hi there! I'm Rumiya
