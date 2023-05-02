@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Telegram-yellow?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://vk.com/kurmanka1">
-    <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="Vk"/>
   </a>
 </div>
 <h1 align="center">
