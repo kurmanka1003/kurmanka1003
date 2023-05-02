@@ -5,6 +5,9 @@
   <a href="https://t.me/kurmanka">
     <img src="https://img.shields.io/badge/Telegram-yellow?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
   </a>
+  <a href="https://vk.com/kurmanka1">
+    <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="Telegram"/>
+  </a>
 </div>
 <h1 align="center">
   Hi there! I'm Rumiya
