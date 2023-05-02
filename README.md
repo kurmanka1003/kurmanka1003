@@ -3,7 +3,7 @@
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/kurmanka">
-    <img src="https://img.shields.io/badge/Telegram-yellow?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://vk.com/kurmanka1">
     <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="Vk"/>
