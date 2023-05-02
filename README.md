@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/vt8h.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODY1Nzg5N2ViOTJmYjU1NzdiMmNmYmY0Zjc1MGFlNWRiZjkzZDNmNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/scZPhLqaVOM1qG4lT9/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/kurmanka">
