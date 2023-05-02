@@ -14,7 +14,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJhZDBhNzg1MmY0NzQ0N2ViNTQ2ODc3ZmEzMzkyODA4NjMxYmNhYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/uB86ZyWQsnFSGYe2sA/giphy.gif" width="400" height="400"/>
 </div>
 
---
+---
 
 ### About Me :
 I am a Frontend Developer from Russia.
@@ -24,7 +24,7 @@ I am a Frontend Developer from Russia.
 
 - :mailbox:My contacts: [![Telegram Badge](https://img.shields.io/badge/-Rumiya-9cf?style=flat&logo=Telegram&logoColor=white)](https://t.me/kurmanka)
 
---
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -35,7 +35,7 @@ I am a Frontend Developer from Russia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
---
+---
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kurmanka1003&theme=dark&background=000000)](https://git.io/streak-stats)
