@@ -12,10 +12,7 @@
     <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="Vk"/>
   </a>
 </div>
-<h1 align="center">
-  Hi there! I'm Rumiya
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTYzMDI4NzIyZGM0ZGVmYjE2ZDJkYWJmZTQ5MjU5NGVlYzg1OWY2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif" width=600" height="250"/>
 </div>
