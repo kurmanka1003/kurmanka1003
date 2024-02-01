@@ -12,15 +12,6 @@
     <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="Vk"/>
   </a>
 </div>
-
----
-
-### Обо мне :
-Начинающий фронтендер из Москвы.
-- :telescope: Окончила бакалавриат по специальности "Разработчик IT-продуктов" и продолжила обучение в магистратуре, а также завершила обучение в Яндекс.Практикуме и получила диплом по профессии "Веб-разработчик".
-
-- :mailbox: Мои контакты: [![Telegram Badge](https://img.shields.io/badge/-Rumiya-9cf?style=flat&logo=Telegram&logoColor=white)](https://t.me/kurmanka)
-
 ---
 
 ### :hammer_and_wrench: Языки и инструменты :
